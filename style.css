@@ -181,6 +181,10 @@ nav a:last-of-type {
 	opacity: .5;
 }
 
+iframe {
+	max-width: 100%;
+}
+
 /* Footer */
 footer {
   background: #CA9988;
@@ -239,7 +243,7 @@ footer p {
   padding-left: 0;
   
   }
-}
+
 
 
 
